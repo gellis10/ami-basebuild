@@ -1,0 +1,5 @@
+source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'ubuntu-hard', github: "gellis10/ubuntu-hard", tag: "0.1.0", protocol: :ssh
